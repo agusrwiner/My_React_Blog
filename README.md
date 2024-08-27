@@ -15,3 +15,5 @@ https://web.postman.co/home
 ###MongoDB
 - https://www.youtube.com/watch?v=4nKWREmCvsE
 - Atlas - https://www.youtube.com/watch?v=jXgJyuBeb_o
+- https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows-unattended/
+- https://www.mongodb.com/try/download/community

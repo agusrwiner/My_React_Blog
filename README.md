@@ -11,3 +11,7 @@ https://web.postman.co/home
 ###Nodemon
 - npm install nodemon --save-dev
 - npx nodemon src/server.js
+
+###MongoDB
+- https://www.youtube.com/watch?v=4nKWREmCvsE
+- Atlas - https://www.youtube.com/watch?v=jXgJyuBeb_o
